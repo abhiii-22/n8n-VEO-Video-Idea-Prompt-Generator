@@ -25,7 +25,7 @@
         "operation": "appendOrUpdate",
         "documentId": {
           "__rl": true,
-          "value": "https://docs.google.com/spreadsheets/d/1nmb8mm6mGn5WQHQuaBi3CcnL4oWhDAXoMtj3PkcFZkE/edit?gid=0#gid=0",
+          "value": "url",
           "mode": "url"
         },
         "sheetName": {
@@ -33,7 +33,7 @@
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nmb8mm6mGn5WQHQuaBi3CcnL4oWhDAXoMtj3PkcFZkE/edit#gid=0"
+          "cachedResultUrl": "url"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -115,7 +115,7 @@
         520,
         60
       ],
-      "id": "595715c3-9023-4b95-935a-e2226aae9180",
+      "id": "id",
       "name": "Log the Idea",
       "credentials": {
         "googleSheetsOAuth2Api": {
@@ -134,7 +134,7 @@
         820,
         360
       ],
-      "id": "01314665-bc14-499c-b080-c04db6689626",
+      "id": "id",
       "name": "Think"
     },
     {
@@ -264,7 +264,7 @@
         "operation": "update",
         "documentId": {
           "__rl": true,
-          "value": "https://docs.google.com/spreadsheets/d/1nmb8mm6mGn5WQHQuaBi3CcnL4oWhDAXoMtj3PkcFZkE/edit?gid=0#gid=0",
+          "value": "url",
           "mode": "url"
         },
         "sheetName": {
@@ -272,7 +272,7 @@
           "value": "gid=0",
           "mode": "list",
           "cachedResultName": "Sheet1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nmb8mm6mGn5WQHQuaBi3CcnL4oWhDAXoMtj3PkcFZkE/edit#gid=0"
+          "cachedResultUrl": "url"
         },
         "columns": {
           "mappingMode": "defineBelow",
